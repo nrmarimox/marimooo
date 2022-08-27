@@ -122,7 +122,7 @@ width: 100%;
   margin-left: 2vw;
   margin-top:4vw;
   background: linear-gradient(transparent 75%, #ffce5b 75%);
-  width: 30vw;
+  width: 40vw;
   transform :skewX(5deg);
 }
 .name {  margin-left: 15vw;
