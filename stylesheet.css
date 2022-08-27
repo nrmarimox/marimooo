@@ -32,7 +32,7 @@ a {
 }
 .header-menu {
 background-color: black;
-height: 4vw;
+height: 6vw;
 position: fixed;
 z-index:9;
 width: 100%;
@@ -122,7 +122,7 @@ width: 100%;
   margin-left: 2vw;
   margin-top:4vw;
   background: linear-gradient(transparent 75%, #ffce5b 75%);
-  width: 15vw;
+  width: 30vw;
   transform :skewX(5deg);
 }
 .name {  margin-left: 15vw;
@@ -147,7 +147,7 @@ margin-left: 2vw;
   margin-left: 4vw;
   margin-top:4vw;
   background: linear-gradient(transparent 75%, #ffce5b 75%);
-  width: 15vw;
+  width: 30vw;
   transform :skewX(5deg);
 }
 .name {  margin-left: 15vw;
@@ -171,7 +171,7 @@ margin-left: 4vw;
   margin-left: 4vw;
   margin-top:4vw;
   background: linear-gradient(transparent 75%, #ffce5b 75%);
-  width: 15vw;
+  width: 30vw;
   transform :skewX(5deg);
 }
 .name {  margin-left: 15vw;
